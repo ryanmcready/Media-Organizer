@@ -1,6 +1,6 @@
 ## Media Organizer
 
-[Plex](https://www.plex.tv/) has a specific folder structure that it likes. When downloading multiple season packs for series, it can be time consuming moving episodes out of their own individual folders. This script analyzes video files and puts them in the following format:
+[Plex](https://www.plex.tv/) has a specific folder structure that it likes. When downloading multiple season packs for series, it can be time consuming moving episodes out of their own individual folders and renaming them. This script analyzes video files and puts them in the following format:
 - /COMPLETED directory name
   - /TV Show Example
     - /S01
